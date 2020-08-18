@@ -1,6 +1,7 @@
 <html>
 <head>
 ABOUT
+</head>
 <title>
 Welcome to my portfolio
 </title>
@@ -11,3 +12,6 @@ Welcome to my portfolio
 <li>XII-83%</li>
 <li>X-94%</li>
 </ol>
+</body>
+</html>
+
