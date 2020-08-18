@@ -1,0 +1,13 @@
+<html>
+<head>
+ABOUT
+<title>
+Welcome to my portfolio
+</title>
+<h1>Academics</h1>
+<body>
+<ol>
+<li>FE-9.44 CGPA</li>
+<li>XII-83%</li>
+<li>X-94%</li>
+</ol>
